@@ -1,34 +1,225 @@
-<h1 align="center">Hi 👋, I'm Sarikha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"  >👋 Hi , I'm Sarikha </h1>
 
-- 🔭 I’m currently working on **Privacy & anti-data-leak solutions, Unity puzzle/adventure game concepts**
+<h3 align="center">
+🚀 CSE Student | 🔐 Privacy-Tech Enthusiast | 🎮 Game Dev Learner
+</h3>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms (LeetCode + HackerRank), Full-stack app development, AI/ML and privacy-focused systems, Ethical hacking & security auditing, Game development with Unity, Japanese (JLPT N5)**
-
-- 👯 I’m looking to collaborate on **Hackathon projects- AI + cybersecurity tools, Privacy-focused applications, Open-source beginner**
-
-- 🤝 I’m looking for help with **Advanced backend architecture, Open-source contribution workflows**
-
-- 👨‍💻 All of my projects are available at [https://sherlock-portfolio--sarikha742.replit.app](https://sherlock-portfolio--sarikha742.replit.app)
-
-- 💬 Ask me about **I enjoy building projects around AI, cybersecurity, privacy, and creative technology. Currently exploring full-stack development, ethical hacking, and problem solving while participating in hackathons and learning through hands-on projects.**
-
-- 📫 How to reach me **sarikha742@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/17bYcCE_DpEZUiJNFCHDEZgEm5u9GX0PE/edit?usp=sharing&ouid=103060858600954175173&rtpof=true&sd=true](https://docs.google.com/document/d/17bYcCE_DpEZUiJNFCHDEZgEm5u9GX0PE/edit?usp=sharing&ouid=103060858600954175173&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I love turning random ideas into hackathon projects at 2 AM.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarikha-rajkumar-098743312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarikha-rajkumar-098743312/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sarikha_ria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sarikha_ria/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/gaze_plume_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/gaze_plume_23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sarikharia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sarikharia/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/sarikha742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/sarikha742" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/sarikhz6gr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/sarikhz6gr" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/600077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="600077" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hackathon+Builder;AI+%2B+Cybersecurity+Explorer;Full-Stack+Developer;Unity+Game+Developer;Always+Learning+New+Things" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+## 👩‍💻 About Me
+
+* 🔭 I’m currently working on
+  **Privacy & anti-data-leak systems, AI tools, and Unity game concepts**
+
+* 🌱 I’m currently learning
+  **DSA, Full-stack Development, Ethical Hacking, AI/ML, Unity, and Japanese (JLPT N5)**
+
+* 👯 I’m looking to collaborate on
+  **Hackathons, AI + Cybersecurity Projects, and Open Source**
+
+* 🤝 I’m looking for help with
+  **Backend Architecture & Scaling Applications**
+
+* 💬 Ask me about
+  **Hackathons, AI ideas, cybersecurity concepts, game development, and creative tech**
+
+* 📫 Reach me at
+  **[sarikha742@gmail.com](mailto:sarikha742@gmail.com)**
+
+* 🌐 Portfolio
+  [Visit Portfolio](https://sherlock-portfolio--sarikha742.replit.app)
+
+* 📄 Resume
+  [View Resume](https://docs.google.com/document/d/17bYcCE_DpEZUiJNFCHDEZgEm5u9GX0PE/edit?usp=sharing)
+
+* ⚡ Fun fact
+  **I turn random 2 AM ideas into hackathon projects 🚀**
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sarikha-rajkumar-098743312/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://www.instagram.com/sarikha_ria/" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+
+<a href="https://leetcode.com/u/sarikharia/" target="blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="50" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/sarikha742" target="blank">
+<img src="https://skillicons.dev/icons?i=hackerrank" height="50" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,cs" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,figma" />
+</p>
+
+---
+
+## ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git" />
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+---
+
+## 🎮 Game Development & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,blender" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarikha-17&show_icons=true&theme=tokyonight" height="180em"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarikha-17&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarikha-17&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+<p align="left">
+
+<a href="https://leetcode.com/u/sarikharia/" target="blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+</a>
+
+<a href="https://www.codechef.com/users/gaze_plume_23" target="blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="50"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sarikhz6gr/" target="blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" height="50"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/sarikha742" target="blank">
+<img src="https://skillicons.dev/icons?i=hackerrank" height="50"/>
+</a>
+
+</p>
+
+---
+
+
+# 🚀 Featured Projects
+
+| Project                 | Description                                                            |
+| ----------------------- | ---------------------------------------------------------------------- |
+| 🔐 DropSafe             | Privacy firewall system to prevent delivery data leaks and scams       |
+| 🍱 MealBridge           | Smart food-sharing and redistribution platform that connects with people in need to reduce food waste and improve accessibility|
+| 🛡️ Women Safety App     | Emergency-response and real-time safety application featuring SOS alerts, live location sharing, trusted contacts, and smart safety assistance for women |
+| 🤖 AI Privacy Assistant | Detects exposed personal information and generates privacy risk scores |
+| 🎮 Unity Puzzle Game    | Story-driven puzzle/adventure game concept                             |
+
+---
+
+# 📈 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/sarikharia/">
+<img src="https://leetcard.jacoblin.cool/sarikharia?theme=dark&font=Poppins&ext=contest" />
+</a>
+</p>
+
+---
+
+# 🧠 Currently Exploring
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI%2FML-Learning-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cybersecurity-Exploring-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributing-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Game%20Development-Unity-black?style=for-the-badge" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarikha-17&theme=tokyo-night" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sarikha-17/Sarikha-17/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+# 🎵 Beyond Tech
+
+* 🎤 I enjoy singing and music creation
+* 🎮 I love experimenting with game concepts and storytelling
+* 🌏 Learning Japanese and exploring creative cultures
+* ⚡ Constantly building hackathon ideas and side projects
+
+---
+
+# ✨ Quote I Like
+
+<p align="center">
+  <i>"Good Morning, and in case I don't see ya, good afternoon, good evening, and good night"</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarikha-17&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+</p>
